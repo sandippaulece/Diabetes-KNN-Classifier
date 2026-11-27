@@ -81,6 +81,6 @@ jupyter notebook KNN_Diabetes.ipynb
 
 ## 👤 Author
 
-**Your Name**  
+**Sandip Paul**  
 B.Tech — Electronics & Communication Engineering  
-Heritage Institute of Technology, Kolkata
+
